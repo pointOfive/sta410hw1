@@ -28,3 +28,4 @@ the versioning there must support [notebook format 4.5](https://github.com/jupyt
 [3.0.13 or greater](https://github.com/jupyterlab/jupyterlab/releases/tag/v3.0.13); 
 otherwise, your notebook cell-ids will not be supported and you will not get any credit for your submitted homework.
 
+> You may check if cell ids are present or changing at each save with `! grep '"id":' <path/to/notebook>.ipynb`
