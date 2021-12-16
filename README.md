@@ -1,8 +1,8 @@
 # UofT STA410/2102 Statistical Computation
 ## Programming Homework Assignment 1
 
-[Programming Homework Assignment 1](sta410hw1.ipynb) focus on linear algebra computations with numpy
-and addresses the following foundational computational and statistical computation problems:
+[Programming Homework Assignment 1](sta410hw1.ipynb) practices linear algebra computations with numpy
+through the following foundational computational and statistical computation problems:
 
 1. The Gram-Schmidt to orthogonalize vectors
 2. Regression fits from a X=QR decomposition
