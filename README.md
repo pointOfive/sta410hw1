@@ -1,12 +1,13 @@
 # UofT STA410/2102 Statistical Computation
 ## Programming Homework Assignment 1
 
-[Programming Homework Assignment 1](sta410hw1.ipynb)  introduces Python through the following foundational computational and statistical computation problems:
+[Programming Homework Assignment 1](sta410hw1.ipynb) focus on linear algebra computations with numpy
+and addresses the following foundational computational and statistical computation problems:
 
-1. Bit string representation of integer value numbers
-2. Pseudorandom integer generation with modulus
-3. Floating-point error accumulation reduction
-4. High precision single pass variance calculations
+1. The Gram-Schmidt to orthogonalize vectors
+2. Regression fits from a X=QR decomposition
+3. The Cholesky covariance matrix decomposition
+4. Conjugate gradient methods
 
 ### Accessing Programming Homework Assignment 1
 UofT students may access this the collection of programming problems with the [UofT JupyterHub](https://jupyter.utoronto.ca) via
