@@ -18,7 +18,7 @@ through the following foundational computational and statistical computation pro
 ### Accessing Programming Portfolio Assignment 1
 UofT students may access this the collection of programming problems with the [UofT Jupyter**Hub**](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw1&branch=master&urlpath=/lab/tree/sta410hw1) via
 
-> https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw1&branch=master&urlpath=/lab/tree/sta410hw0
+> https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw1&branch=master&urlpath=/lab/tree/sta410hw1
 
 - ***Do not*** access this assignment through https://jupyter.utoronto.ca ***unless*** you ***first log out and ***then log back in*** with Jupyter**Lab**, i.e., 
 
