@@ -16,9 +16,12 @@ through the following foundational computational and statistical computation pro
 4. Conjugate gradient methods
 
 ### Accessing Programming Portfolio Assignment 1
-UofT students may access this the collection of programming problems with the [UofT JupyterHub](https://jupyter.utoronto.ca) via
+UofT students may access this the collection of programming problems with the [UofT Jupyter***Hub***](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw1&branch=master&urlpath=/lab/tree/sta410hw0) via
 
-> https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw1&branch=master
+> https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw1&branch=master&urlpath=/lab/tree/sta410hw0
+
+- ***Do not*** access this through https://jupyter.utoronto.ca ***unless you first log out and then log back in with*** 
+
 
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
 If for some reason JupyterHub is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).  
