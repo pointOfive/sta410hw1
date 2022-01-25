@@ -20,7 +20,7 @@ UofT students may access this the collection of programming problems with the [U
 
 > https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw1&branch=master&urlpath=/lab/tree/sta410hw0
 
-- ***Do not*** access this assignment through https://jupyter.utoronto.ca ***unless*** you first ***log out and then log back in*** with Jupyter**Lab**, i.e., 
+- ***Do not*** access this assignment through https://jupyter.utoronto.ca ***unless*** you ***first log out and ***then log back in*** with Jupyter**Lab**, i.e., 
 
 ![](zzQ6wYzvBehzQgQ7.png)
 
