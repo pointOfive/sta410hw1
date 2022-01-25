@@ -16,17 +16,18 @@ through the following foundational computational and statistical computation pro
 4. Conjugate gradient methods
 
 ### Accessing Programming Portfolio Assignment 1
-UofT students may access this the collection of programming problems with the [UofT Jupyter***Hub***](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw1&branch=master&urlpath=/lab/tree/sta410hw0) via
+UofT students may access this the collection of programming problems with the [UofT Jupyter**Hub**](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw1&branch=master&urlpath=/lab/tree/sta410hw0) via
 
 > https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw1&branch=master&urlpath=/lab/tree/sta410hw0
 
-- ***Do not*** access this through https://jupyter.utoronto.ca ***unless you first log out and then log back in with*** 
+- ***Do not*** access this assignment through https://jupyter.utoronto.ca ***unless*** you first ***log out and then log back in*** with Jupyter**Lab**, i.e., 
 
+![](zzQ6wYzvBehzQgQ7.png)
 
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
-If for some reason JupyterHub is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).  
+If for some reason Jupyter***Lab*** is not loading the repository, you can delete and reload repositories (after downloading and saving your work).  
 
-> From JupyterHub, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
+> From JupyterHub or JupyterLab, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
 
 Alternatively, the programming problems may also be accessed without UofT authentication using [Google Colab](https://colab.research.google.com) via
 
@@ -34,7 +35,7 @@ Alternatively, the programming problems may also be accessed without UofT authen
 
 ***If you're working in some other environment, 
 the versioning there must support [notebook format 4.5](https://github.com/jupyterlab/jupyterlab/issues/9729), e.g., 
-[jupyterlab](https://jupyter.org/install) version 
+[JupyterLab](https://jupyter.org/install) version 
 [3.0.13 or greater](https://github.com/jupyterlab/jupyterlab/releases/tag/v3.0.13); 
 otherwise, your notebook cell-ids will not be supported and you will not get any credit for your submitted work.***
 
